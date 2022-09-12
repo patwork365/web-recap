@@ -1,0 +1,29 @@
+/*  Universal selector */
+* {
+    padding: 0px;
+    margin: 10px;
+    text-align: center;
+}
+
+/* format the tags with class heading*/
+.heading {
+    font-size: 24px;
+    font-style: italic;
+    color: blue;
+}
+
+/* ID selector*/
+#work {
+    font-weight: bold;
+}
+
+.card {
+border: 5px dashed black;
+border-top:  50%;
+width: 300px;
+margin: 0px auto;
+
+
+}
+
+
