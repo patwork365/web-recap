@@ -18,12 +18,10 @@
 }
 
 .card {
-border: 5px dashed black;
-border-top:  50%;
-width: 300px;
-margin: 0px auto;
-
-
+    border: 5px dashed black;
+    border-top:  50%;
+    width: 300px;
+    margin: 0px auto;
 }
 
 
